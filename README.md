@@ -7,5 +7,3 @@ app para buscar por receitas
 ```
  npm start
 ```
-
-As funções do services foram criadas pela Trybe, para fins didaticos.
